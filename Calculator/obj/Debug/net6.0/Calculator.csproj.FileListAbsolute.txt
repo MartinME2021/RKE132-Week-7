@@ -1,0 +1,14 @@
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\Mattias2\Desktop\Marjana\Functions\Calculator\obj\Debug\net6.0\ref\Calculator.dll
